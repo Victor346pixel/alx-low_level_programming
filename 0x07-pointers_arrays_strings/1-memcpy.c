@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memcpy - function copies @n bytes from memory area @src to memmory area @dest
+ * _memcpy -  copies @n bytes from memory area @src to memmory area @dest
  *
  * @n: function copies
  *
@@ -17,7 +17,7 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 
 	while (i < n)
 	{
-		src[i] = dest[i];
+		dest[i] = src[i];
 		i++;
 	}
 
