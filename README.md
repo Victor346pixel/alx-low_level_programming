@@ -1,5 +1,4 @@
 # alx-low_level_programming
-i am a full stuck software engineeer
 ![C Programming Language Logo, HD Png Download , Transparent Png Image - PNGitem](https://github.com/Victor346pixel/alx-low_level_programming/assets/125592181/007650a2-11ee-43d8-acae-50db271a8138)
 
 
@@ -16,27 +15,26 @@ C has now become a widely used professional language for various reasons.
 
 Easy to learn
 
-Structured language
+1. Structured language
 
-It produces efficient programs.
+2. It produces efficient programs.
 
-It can handle low-level activities.
+3. It can handle low-level activities.
 
-It can be compiled on a variety of computer platforms.
+4. It can be compiled on a variety of computer platforms.
+   
+FACTS ABOUT C:
 
-Facts about C
+1. C was invented to write an operating system called UNIX.
 
+2. C is a successor of B language which was introduced around 1970.
 
-C was invented to write an operating system called UNIX.
+3. The language was formalized in 1988 by the American National Standard Institute ANSI. 
 
-C is a successor of B language which was introduced around 1970.
+4. The UNIX OS was totally written in C by 1973.
 
-The language was formalized in 1988 by the American National Standard Institute ANSI. 
+5. Today C is the most widely used and popular System Programming Language. 
 
-The UNIX OS was totally written in C by 1973.
+6. Most of the state-of-the-art softwares have been implemented using C.
 
-Today C is the most widely used and popular System Programming Language. 
-
-Most of the state-of-the-art softwares have been implemented using C.
-
-Today's most popular Linux OS and RBDMS MySQL have been written in C.
+7. Today's most popular Linux OS and RBDMS MySQL have been written in C.
